@@ -1,2 +1,2 @@
 # ML_AI_Course
-Final capstone project submission for ML AI online course
+This machine learning model predicts the severity of road accidents based on environmental factors like weather conditions, lighting, and the state of the road surface. By analyzing historical accident data, the model can estimate whether an accident is likely to be fatal, serious, or minor. The model was trained on real-world traffic data and showed good accuracy in making these predictions. The goal is to provide insights into how different conditions affect accident outcomes, helping policymakers, city planners, and safety organizations take proactive steps to reduce the severity of accidents and improve road safety in various conditions.
